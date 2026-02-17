@@ -1,0 +1,10 @@
+MatchedCondition,EMPTY_%_Supervised,EMPTY_%_Crowdsourced
+Home_Silent,0.0,0.0
+Home_TV,0.0,1.0101010101010102
+Home_OpenWindow,0.0,2.0
+Home_OtherNoise,0.0,0.0
+Office,0.0,0.0
+Street,0.0,2.0408163265306123
+Park,0.0,0.0
+SubwayStation,0.0,0.0
+CafeRestaurant,0.0,0.0
