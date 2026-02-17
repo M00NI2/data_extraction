@@ -1,0 +1,10 @@
+DeviceComp,Metric,Supervised_mean,Supervised_sd,Crowdsourced_mean,Crowdsourced_sd,DiffMean(CS-SUP)
+Headset,ASL,-33.6463,7.6367,-25.2087,5.9130,8.4376
+Laptop,ASL,-19.2441,4.7699,-23.3062,2.5801,-4.0622
+Smartphone,ASL,-22.3520,4.7885,-22.8828,5.5730,-0.5308
+Headset,Speech activity factor (%),81.3058,8.6193,83.9050,6.3028,2.5992
+Laptop,Speech activity factor (%),74.2374,7.3693,83.2675,5.8345,9.0301
+Smartphone,Speech activity factor (%),91.3628,7.1215,84.5832,5.8643,-6.7796
+Headset,Recording duration (s),13.9921,3.1110,14.4974,3.5628,0.5053
+Laptop,Recording duration (s),14.9479,3.0536,14.4199,3.4762,-0.5280
+Smartphone,Recording duration (s),13.4341,3.0374,14.1269,3.2810,0.6929

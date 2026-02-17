@@ -1,0 +1,46 @@
+Condition,Bandwidth,Percentage (%)
+Campus,empty,0.0
+Campus,NB,0.0
+Campus,WB,5.71
+Campus,SWB,46.67
+Campus,FB,47.62
+In front of MAR,empty,0.0
+In front of MAR,NB,0.0
+In front of MAR,WB,0.95
+In front of MAR,SWB,45.71
+In front of MAR,FB,53.33
+In the lab TV noise,empty,0.0
+In the lab TV noise,NB,14.29
+In the lab TV noise,WB,28.57
+In the lab TV noise,SWB,17.14
+In the lab TV noise,FB,40.0
+In the lab doors/windows closed,empty,0.0
+In the lab doors/windows closed,NB,9.52
+In the lab doors/windows closed,WB,33.33
+In the lab doors/windows closed,SWB,13.33
+In the lab doors/windows closed,FB,43.81
+In the lab office,empty,0.0
+In the lab office,NB,19.05
+In the lab office,WB,14.29
+In the lab office,SWB,20.95
+In the lab office,FB,45.71
+In the lab open door,empty,0.0
+In the lab open door,NB,8.57
+In the lab open door,WB,23.81
+In the lab open door,SWB,15.24
+In the lab open door,FB,52.38
+In the lab open windows,empty,0.0
+In the lab open windows,NB,14.29
+In the lab open windows,WB,38.1
+In the lab open windows,SWB,17.14
+In the lab open windows,FB,30.48
+Mensa,empty,0.0
+Mensa,NB,0.0
+Mensa,WB,0.95
+Mensa,SWB,45.71
+Mensa,FB,53.33
+U-Bhf,empty,0.0
+U-Bhf,NB,0.0
+U-Bhf,WB,6.67
+U-Bhf,SWB,38.1
+U-Bhf,FB,55.24

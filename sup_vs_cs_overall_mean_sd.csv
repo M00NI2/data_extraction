@@ -1,0 +1,4 @@
+Metric,Supervised_mean,Supervised_sd,Crowdsourced_mean,Crowdsourced_sd,DiffMean(CS-SUP)
+ASL,-27.0412,8.8022,-23.6299,4.8146,3.4113
+Speech activity factor (%),83.9244,10.0702,83.8936,5.9853,-0.0309
+Recording duration (s),13.9392,3.1136,14.3352,3.4301,0.3959

@@ -1,0 +1,10 @@
+DeviceComp,Metric,Supervised_mean,Crowdsourced_mean,Diff(CS-SUP)
+Headset,ASL,-33.6463,-25.2087,8.4376
+Laptop,ASL,-19.2441,-23.3062,-4.0622
+Smartphone,ASL,-22.3520,-22.8828,-0.5308
+Headset,Speech Percentage,81.3058,83.9050,2.5992
+Laptop,Speech Percentage,74.2374,83.2675,9.0301
+Smartphone,Speech Percentage,91.3628,84.5832,-6.7796
+Headset,Duration,13.9921,14.4974,0.5053
+Laptop,Duration,14.9479,14.4199,-0.5280
+Smartphone,Duration,13.4341,14.1269,0.6929

@@ -1,0 +1,4 @@
+Metric,Supervised_N,Supervised_Median,Supervised_Q1,Supervised_Q3,Supervised_IQR,Supervised_Mean,Supervised_SD,Crowdsourced_N,Crowdsourced_Median,Crowdsourced_Q1,Crowdsourced_Q3,Crowdsourced_IQR,Crowdsourced_Mean,Crowdsourced_SD,DiffMedian(CS-SUP),DiffMean(CS-SUP)
+ASL,945,-24.8787,-33.9105,-19.9765,13.9340,-27.0412,8.8022,887,-23.3730,-25.0325,-21.6215,3.4110,-23.6299,4.8146,1.5057,3.4113
+Speech activity factor (%),945,84.1047,77.2601,92.4959,15.2358,83.9244,10.0702,887,84.9000,80.6000,88.1000,7.5000,83.8936,5.9853,0.7953,-0.0309
+Recording duration (s),945,14.5067,12.3520,16.0000,3.6480,13.9392,3.1136,887,14.5340,11.9620,16.5775,4.6155,14.3352,3.4301,0.0273,0.3959

@@ -1,0 +1,21 @@
+Device,Bandwidth,Percentage (%)
+AirPods,empty,0.0
+AirPods,NB,34.59
+AirPods,WB,1.08
+AirPods,SWB,58.38
+AirPods,FB,5.95
+Headset (Sennheiser PXC 550),empty,0.0
+Headset (Sennheiser PXC 550),NB,0.0
+Headset (Sennheiser PXC 550),WB,5.2
+Headset (Sennheiser PXC 550),SWB,0.0
+Headset (Sennheiser PXC 550),FB,94.8
+Laptop (Lenovo ThinkPad X1 Carbon),empty,0.0
+Laptop (Lenovo ThinkPad X1 Carbon),NB,0.0
+Laptop (Lenovo ThinkPad X1 Carbon),WB,93.55
+Laptop (Lenovo ThinkPad X1 Carbon),SWB,0.0
+Laptop (Lenovo ThinkPad X1 Carbon),FB,6.45
+Smartphone (iPhone 11 Pro),empty,0.0
+Smartphone (iPhone 11 Pro),NB,1.41
+Smartphone (iPhone 11 Pro),WB,0.0
+Smartphone (iPhone 11 Pro),SWB,46.48
+Smartphone (iPhone 11 Pro),FB,52.11

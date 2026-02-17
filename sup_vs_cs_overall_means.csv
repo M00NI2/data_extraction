@@ -1,0 +1,4 @@
+Metric,Supervised_mean,Crowdsourced_mean,Diff(CS-SUP)
+ASL,-27.0412,-23.6299,3.4113
+Speech Percentage,83.9244,83.8936,-0.0309
+Duration,13.9392,14.3352,0.3959
